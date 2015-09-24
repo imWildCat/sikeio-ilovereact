@@ -1,0 +1,14 @@
+{
+  "name": "ilovereact",
+  "version": "1.0.0",
+  "description": "An exercise of sike.io",
+  "main": "Makefile",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "browser-sync": "^2.9.6"
+  }
+}
